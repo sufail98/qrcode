@@ -1,0 +1,34 @@
+.f-table{
+	margin-top: 20px;
+}
+.ti-myedit{
+	font-size: 18px;
+	color: #d8a532;
+	text-decoration: none;
+}
+.ti-myview{
+	font-size: 18px;
+	color: #7ad832;
+	text-decoration: none;
+}
+.ti-mydelete{
+	font-size: 18px;
+	color: #ef1802;
+	text-decoration: none;
+}
+.ti-myedit:hover{
+	color: #bdb8ae;
+	text-decoration: none;
+}
+.ti-myview:hover{
+	color: #bdb8ae;
+	text-decoration: none;
+}
+.ti-mydelete:hover{
+	color: #bdb8ae;
+	text-decoration: none;
+}
+.back-btn-update{
+	text-decoration: none !important;
+	color: #fff !important;
+}
